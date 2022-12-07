@@ -1,0 +1,62 @@
+.container{
+	flex-direction: row;
+	display: flex;
+	flex-wrap: wrap;
+
+}
+.box1{
+	width: 95%;
+	height: 12vh;
+	background-color: gray;
+}
+.box2{
+	width: 5%;
+	height: 12vh;
+	background-color: gray;
+}
+.separar{
+	width: 100%;
+	height: 5vh;
+}
+.logoqatar{
+	width: 10%;
+	height: 100%;
+}
+.logoin{
+	width: 90%;
+	height: auto;
+}
+.box3{
+	width: 100%;
+	height: 50vh;
+}
+body{
+	background-color: darkgray;
+}
+h1{
+	font-family: Times;
+	margin-top: 0px;
+
+}
+p{
+	font-size: 20px;
+}
+.texto{
+	margin-top:-10px;
+}
+.boxbandeira{
+	width: 30%;
+	height: 35vh;
+	background-color: darkgray;
+	border-bottom: 1px solid gray;
+}
+.bandeira{
+	width: 90%;
+	height: 90%;
+}
+.boxtext{
+	width: 60%;
+	height: 35vh;
+	align-items: center;
+	border-bottom: 1px solid gray;
+}
